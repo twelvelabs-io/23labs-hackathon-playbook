@@ -7,9 +7,10 @@ Playbooks for 23 Labs Hackathon. Let's play with Twelve Labs' multimodal AI APIs
 [![Twitter](https://badgen.net/badge/twelvelabs/twitter?icon=twitter&color=orange)](https://twitter.com/twelve_labs)
 
 
-# Prerequisite
+## Prerequisite
 - python
 - make sure if you can run jupyter notebook(.ipynb).
   - reference: https://docs.jupyter.org/en/latest/install.html
  
-# Playbooks
+## Playbooks
+
