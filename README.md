@@ -1,7 +1,7 @@
 # 23labs-hackathon-playbook
 Playbooks for 23 Labs Hackathon. Let's play with Twelve Labs' multimodal AI APIs!
 
-![image (1)](https://github.com/twelvelabs-io/23labs-hackathon-playbook/assets/117253278/f0aabe84-42ff-4ebb-9da0-8c5a6c802083)  
+![banner](https://github.com/twelvelabs-io/23labs-hackathon-playbook/assets/117253278/547b3c40-2276-4a00-8c6b-5a8750c741d9)
 
 [![Discord](https://badgen.net/badge/twelvelabs/discord?icon=discord&color=orange)](https://discord.gg/G7dycMHkU6)
 [![Twitter](https://badgen.net/badge/twelvelabs/twitter?icon=twitter&color=orange)](https://twitter.com/twelve_labs)
