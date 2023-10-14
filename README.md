@@ -26,3 +26,10 @@ This demo will use an existing account. To make calls to the API, you need your 
 2. [Content Creator Demo](./Twelve_Labs_API_Content_Creator_Demo.ipynb)
 3. [E-Learning Demo](./Twelve_Labs_API_E_Learning_Demo.ipynb)
 4. [Sports Demo](./Twelve_Labs_API_Sports_Demo.ipynb)
+
+
+## Example Apps
+1. [Summarize a Youtube Video](https://github.com/mrnkim/Summarize-a-Youtube-Video)
+2. [Generate hashtags and titles for your video](https://github.com/mrnkim/Generate-Titles-and-Hashtags-for-Your-Video#generate-titles-and-hashtags-for-your-video)
+3. [Generate social posts for your video](https://github.com/mrnkim/Generate-Social-Posts-for-Your-Video)
+4. [Who talked about us? (Vid Analyzer)](https://github.com/mrnkim/vid-analyzer-react)
